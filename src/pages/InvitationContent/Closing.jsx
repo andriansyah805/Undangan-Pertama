@@ -18,7 +18,7 @@ export default function ClosingSection() {
         initial="hidden"
         whileInView="show"
         viewport={{ once: true }}
-        className="max-w-2xl mx-auto text-center"
+        className="max-w-3xl mx-auto text-center"
       >
         {/* Ornament */}
         <motion.div
