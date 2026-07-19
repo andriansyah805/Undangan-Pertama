@@ -13,7 +13,7 @@ const fadeUp = {
 
 export default function ClosingSection() {
   return (
-    <section className="py-24 px-6">
+    <section className="py-22 px-6">
       <motion.div
         initial="hidden"
         whileInView="show"
